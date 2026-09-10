@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@import "pdfjs-dist/web/pdf_viewer.css";
+

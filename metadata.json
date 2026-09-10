@@ -1,0 +1,6 @@
+{
+  "name": "PDF Study Chat",
+  "description": "Upload a PDF, select figures, and study with an AI tutor using Gemini 3.8 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
